@@ -1,0 +1,41 @@
+#HI{
+	font-size:170pt;
+	color:black;
+	text-align: center;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+}
+#Trailer1 {
+	font-size:120pt;
+	color:black; 
+	text-align: left;
+	font-family: "Comic Sans MS";
+}
+#Poster {
+	font-size:120pt;
+	color:black; 
+	text-align: center;
+	font-family: "Comic Sans MS";
+}
+img{
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width: 40%;
+}
+#Trailer{
+	font-size:120pt;
+	color:black; 
+	text-align: right;
+	font-family: "Comic Sans MS";
+}
+div {
+	background-color: yellow;
+	display: inline;
+}
+#BESTSCENES{
+display: block;
+margin-left: 75%;
+margin-right: auto;
+width: 40%
+}
